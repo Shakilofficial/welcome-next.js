@@ -1,8 +1,8 @@
-import Image from "next/image";
 import banner from "@/assets/banner-7.jpg";
+import Image from "next/image";
 const AlbumPage = () => {
   return (
-    <div className="flex gap-4">
+    <div className="">
       <Image
         src="https://i.ibb.co/G2LrT0C/bibimbap.png"
         width={500}
